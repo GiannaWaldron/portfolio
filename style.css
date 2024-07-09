@@ -134,7 +134,7 @@ footer a:hover {
 	transition:.25s;
 }
 
-@media only screen and (max-width: 620px) {
+@media only screen and (max-width: 420px) {
 	
 #wrapper {
 margin: 0px auto;
